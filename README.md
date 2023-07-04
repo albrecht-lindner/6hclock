@@ -1,6 +1,6 @@
 # 6hclock
 
-Most clocks divide the day into two halves of two hours each. However, this clock divides the day into four quarters of six hours each!
+Most clocks divide the day into two halves of twelve hours each. However, this clock divides the day into four quarters of six hours each!
 
 ![animated gif of advancing clokc](6hclock.gif)
 
