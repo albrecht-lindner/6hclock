@@ -5,7 +5,7 @@ Most clocks divide the day into two halves of two hours each. However, this cloc
 
 The clock's wheel advances every 5 minutes, the current time is indicated at the top. In the picture below it is 02:40, 08:40, 14:40, or 20:40.
 
-This repository contains everything needed to build this clock: CAD data for your 3D printer, code (CircuitPython), PCB production data, and the necessary hardware components.
+The [repository](https://github.com/albrecht-lindner/6hclock) contains everything needed to build this clock: CAD data for your 3D printer, code (CircuitPython), PCB production data, and the necessary hardware components.
 
 ---
 ![picture of clock](6hclock.jpg)
